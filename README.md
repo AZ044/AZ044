@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Az044">
-    <img width = "100%" height = "160"   src="Header.gif">
+    <img width = "100%" height = "180"   src="Header.gif">
   </a>
 </div>
 
