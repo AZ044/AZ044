@@ -12,9 +12,10 @@
 <img width="70%" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,go,bash,&perline=7" />
 </p>
 
+
 <h3 align = "center" >🛠 Tools & Environements</h3>
 <p align = "center">
-<img width="70%" src="https://skillicons.dev/icons?i=git,docker,mysql,sqlite,linux,npm,react,nodejs,tailwind,vue,postman,idea,grafana,prometheus&perline=7" />
+<img width="70%" src="https://skillicons.dev/icons?i=raspberrypi,docker,mysql,sqlite,linux,npm,react,nodejs,tailwind,vue,postman,idea,grafana,prometheus&perline=7" />
 </p>
 
 <h3 align="center">👨‍💻 OS</h3>
@@ -22,3 +23,4 @@
 <img width="20%" src="https://skillicons.dev/icons?i=linux,windows,&perline=2" /><br>
 <img width="18%" src="https://skillicons.dev/icons?i=kali,&perline=2" />
 </p>
+    
