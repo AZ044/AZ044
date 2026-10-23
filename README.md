@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Az044">
-    <img width = "100%" height = "180"   src="Header.gif">
+    <img width = "100%" height = "180"   src="Header profile.gif">
   </a>
 </div>
 
@@ -20,7 +20,9 @@
 
 <h3 align="center">👨‍💻 OS</h3>
 <p align = "center">
-<img width="20%" src="https://skillicons.dev/icons?i=linux,windows,&perline=2" /><br>
-<img width="18%" src="https://skillicons.dev/icons?i=kali,&perline=2" />
+<img width="20%" src="https://skillicons.dev/icons?i=kali,windows&perline=2">
 </p>
-    
+  
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AZ044&theme=gruvbox&hide_border=true">
+</p>

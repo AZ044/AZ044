@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Az044">
-    <img width = "100%" height = "180"   src="Header.gif">
+    <img width = "100%" height = "180"   src="Header profile.gif">
   </a>
 </div>
 
@@ -49,4 +49,8 @@
    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" title="Ubuntu">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" title="Windows">
 </p>
-    
+  
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AZ044&theme=gruvbox&hide_border=true">
+</p>
