@@ -19,6 +19,6 @@
 
 <h3 align="center">👨‍💻 OS</h3>
 <p align = "center">
-<img  src="https://skillicons.dev/icons?i=linux,windows,&perline=2" /><br>
-<img width="10%" src="https://skillicons.dev/icons?i=kali,&perline=2" />
+<img width="20%" src="https://skillicons.dev/icons?i=linux,windows,&perline=2" /><br>
+<img width="18%" src="https://skillicons.dev/icons?i=kali,&perline=2" />
 </p>
