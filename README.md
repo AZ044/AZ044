@@ -7,7 +7,7 @@
 <h2>Hey there 👋🏻!</h2>
 <img src="https://img.shields.io/bundlephobia/:format/:packageName
 ">
-<p>AZ044 | Junior developer & high school student in France. Passionate about development and cybersecurity, building projects for fun in my spare time.</p>
+<p>AZ044 | Junior developer & Bachelor's student at Epitech Passionate about development and cybersecurity, building projects for fun in my spare time.</p>
 
 <h3 align = "center">⌨️ Languages</h3>
 <p align = "center">
